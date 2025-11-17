@@ -1,1 +1,1 @@
-# Outputs-in-console-worlds-one-by-one-in-and-changing-to-
+Outputs words one by one in console in " ", and changing "(", ")" to " "
