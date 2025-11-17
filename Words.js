@@ -26,7 +26,7 @@ function getPage(book, pageNumber) {
 //    return // page text
 }
 
-let replaced = data.replaceAll(/\(/g, " ").replace(/\)/g, " ");
+let replaced = data.replaceAll(/\(/g, " ").replaceAll(/\)/g, " ");
 let words = replaced.split(/\s+/);
 
 console.log(words)
